@@ -1,0 +1,21 @@
+.person {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 10px 0;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+  }
+  
+  .person h3 {
+    margin: 0;
+    font-size: 1.2em;
+  }
+  
+  .person p {
+    margin: 5px 0;
+  }
+  
+  .person ul {
+    list-style-type: disc;
+    padding-left: 20px;
+  }
